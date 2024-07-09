@@ -1,0 +1,6 @@
+.env
+.venv/
+Dataset/
+medmcqa_result.json
+medqa_result.json
+pubmedqa_result.json
